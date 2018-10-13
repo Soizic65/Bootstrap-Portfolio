@@ -1,0 +1,26 @@
+body{
+        background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/gravel.png");
+}
+
+.col-md-10{
+        height:500px;
+        border: 1px solid grey;
+        background-color:white;
+        
+}
+
+h1{
+        color:teal;
+}
+
+
+.fixed-bottom{
+        padding: 30px 0;
+        font-size: 16px;
+        color: #cccccc;
+        text-align: center;
+        background: #666666;
+        border-top: 8px solid #4aaaa5;
+        height: 50px;
+        
+}
